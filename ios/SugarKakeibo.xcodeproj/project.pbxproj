@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* SugarReactNativeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SugarReactNativeTests.m */; };
+		00E356F31AD99517003FC87E /* SugarKakeiboTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SugarKakeiboTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		26F1CC54B0C85AB3D69B81C3 /* libPods-SugarReactNative-SugarReactNativeTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B22008C04B259BBFC0A1490 /* libPods-SugarReactNative-SugarReactNativeTests.a */; };
+		26F1CC54B0C85AB3D69B81C3 /* libPods-SugarKakeibo-SugarKakeiboTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B22008C04B259BBFC0A1490 /* libPods-SugarKakeibo-SugarKakeiboTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		AA70762C39FC6AA16A1EB315 /* libPods-SugarReactNative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 91FB7ED75AEDC175537B8A12 /* libPods-SugarReactNative.a */; };
+		AA70762C39FC6AA16A1EB315 /* libPods-SugarKakeibo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 91FB7ED75AEDC175537B8A12 /* libPods-SugarKakeibo.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -22,27 +22,27 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = SugarReactNative;
+			remoteInfo = SugarKakeibo;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* SugarReactNativeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarReactNativeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* SugarKakeiboTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarKakeiboTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* SugarReactNativeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SugarReactNativeTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* SugarReactNative.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SugarReactNative.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SugarReactNative/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SugarReactNative/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SugarReactNative/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SugarReactNative/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SugarReactNative/main.m; sourceTree = "<group>"; };
-		1B22008C04B259BBFC0A1490 /* libPods-SugarReactNative-SugarReactNativeTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SugarReactNative-SugarReactNativeTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3330176916B7D8EB506B4030 /* Pods-SugarReactNative.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarReactNative.release.xcconfig"; path = "Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative.release.xcconfig"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SugarReactNative/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		88F62746608026401030AB43 /* Pods-SugarReactNative.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarReactNative.debug.xcconfig"; path = "Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative.debug.xcconfig"; sourceTree = "<group>"; };
-		91FB7ED75AEDC175537B8A12 /* libPods-SugarReactNative.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SugarReactNative.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CA70F661053642A4EF488441 /* Pods-SugarReactNative-SugarReactNativeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarReactNative-SugarReactNativeTests.release.xcconfig"; path = "Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests.release.xcconfig"; sourceTree = "<group>"; };
-		DC7519ED671489CB62B2B790 /* Pods-SugarReactNative-SugarReactNativeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarReactNative-SugarReactNativeTests.debug.xcconfig"; path = "Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* SugarKakeiboTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SugarKakeiboTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* SugarKakeibo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SugarKakeibo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SugarKakeibo/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SugarKakeibo/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SugarKakeibo/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SugarKakeibo/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SugarKakeibo/main.m; sourceTree = "<group>"; };
+		1B22008C04B259BBFC0A1490 /* libPods-SugarKakeibo-SugarKakeiboTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SugarKakeibo-SugarKakeiboTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3330176916B7D8EB506B4030 /* Pods-SugarKakeibo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarKakeibo.release.xcconfig"; path = "Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo.release.xcconfig"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SugarKakeibo/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		88F62746608026401030AB43 /* Pods-SugarKakeibo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarKakeibo.debug.xcconfig"; path = "Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo.debug.xcconfig"; sourceTree = "<group>"; };
+		91FB7ED75AEDC175537B8A12 /* libPods-SugarKakeibo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SugarKakeibo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CA70F661053642A4EF488441 /* Pods-SugarKakeibo-SugarKakeiboTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarKakeibo-SugarKakeiboTests.release.xcconfig"; path = "Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests.release.xcconfig"; sourceTree = "<group>"; };
+		DC7519ED671489CB62B2B790 /* Pods-SugarKakeibo-SugarKakeiboTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SugarKakeibo-SugarKakeiboTests.debug.xcconfig"; path = "Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				26F1CC54B0C85AB3D69B81C3 /* libPods-SugarReactNative-SugarReactNativeTests.a in Frameworks */,
+				26F1CC54B0C85AB3D69B81C3 /* libPods-SugarKakeibo-SugarKakeiboTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,20 +59,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AA70762C39FC6AA16A1EB315 /* libPods-SugarReactNative.a in Frameworks */,
+				AA70762C39FC6AA16A1EB315 /* libPods-SugarKakeibo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* SugarReactNativeTests */ = {
+		00E356EF1AD99517003FC87E /* SugarKakeiboTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* SugarReactNativeTests.m */,
+				00E356F21AD99517003FC87E /* SugarKakeiboTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = SugarReactNativeTests;
+			path = SugarKakeiboTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -86,16 +86,16 @@
 		0567574601D94D2946C1A9C4 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				88F62746608026401030AB43 /* Pods-SugarReactNative.debug.xcconfig */,
-				3330176916B7D8EB506B4030 /* Pods-SugarReactNative.release.xcconfig */,
-				DC7519ED671489CB62B2B790 /* Pods-SugarReactNative-SugarReactNativeTests.debug.xcconfig */,
-				CA70F661053642A4EF488441 /* Pods-SugarReactNative-SugarReactNativeTests.release.xcconfig */,
+				88F62746608026401030AB43 /* Pods-SugarKakeibo.debug.xcconfig */,
+				3330176916B7D8EB506B4030 /* Pods-SugarKakeibo.release.xcconfig */,
+				DC7519ED671489CB62B2B790 /* Pods-SugarKakeibo-SugarKakeiboTests.debug.xcconfig */,
+				CA70F661053642A4EF488441 /* Pods-SugarKakeibo-SugarKakeiboTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* SugarReactNative */ = {
+		13B07FAE1A68108700A75B9A /* SugarKakeibo */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -105,15 +105,15 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = SugarReactNative;
+			name = SugarKakeibo;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				91FB7ED75AEDC175537B8A12 /* libPods-SugarReactNative.a */,
-				1B22008C04B259BBFC0A1490 /* libPods-SugarReactNative-SugarReactNativeTests.a */,
+				91FB7ED75AEDC175537B8A12 /* libPods-SugarKakeibo.a */,
+				1B22008C04B259BBFC0A1490 /* libPods-SugarKakeibo-SugarKakeiboTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* SugarReactNative */,
+				13B07FAE1A68108700A75B9A /* SugarKakeibo */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* SugarReactNativeTests */,
+				00E356EF1AD99517003FC87E /* SugarKakeiboTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				0567574601D94D2946C1A9C4 /* Pods */,
@@ -143,8 +143,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* SugarReactNative.app */,
-				00E356EE1AD99517003FC87E /* SugarReactNativeTests.xctest */,
+				13B07F961A680F5B00A75B9A /* SugarKakeibo.app */,
+				00E356EE1AD99517003FC87E /* SugarKakeiboTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -152,9 +152,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* SugarReactNativeTests */ = {
+		00E356ED1AD99517003FC87E /* SugarKakeiboTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SugarReactNativeTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SugarKakeiboTests" */;
 			buildPhases = (
 				961527C3DEE3757F382BBC28 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -168,14 +168,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = SugarReactNativeTests;
-			productName = SugarReactNativeTests;
-			productReference = 00E356EE1AD99517003FC87E /* SugarReactNativeTests.xctest */;
+			name = SugarKakeiboTests;
+			productName = SugarKakeiboTests;
+			productReference = 00E356EE1AD99517003FC87E /* SugarKakeiboTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* SugarReactNative */ = {
+		13B07F861A680F5B00A75B9A /* SugarKakeibo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SugarReactNative" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SugarKakeibo" */;
 			buildPhases = (
 				B1B0ACBFE8C8168F9AAFDD44 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -190,9 +190,9 @@
 			);
 			dependencies = (
 			);
-			name = SugarReactNative;
-			productName = SugarReactNative;
-			productReference = 13B07F961A680F5B00A75B9A /* SugarReactNative.app */;
+			name = SugarKakeibo;
+			productName = SugarKakeibo;
+			productReference = 13B07F961A680F5B00A75B9A /* SugarKakeibo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -212,7 +212,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SugarReactNative" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SugarKakeibo" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -225,8 +225,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* SugarReactNative */,
-				00E356ED1AD99517003FC87E /* SugarReactNativeTests */,
+				13B07F861A680F5B00A75B9A /* SugarKakeibo */,
+				00E356ED1AD99517003FC87E /* SugarKakeiboTests */,
 			);
 		};
 /* End PBXProject section */
@@ -271,15 +271,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		8A7B408474F6190B1C45B606 /* [CP] Copy Pods Resources */ = {
@@ -288,15 +288,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative-SugarReactNativeTests/Pods-SugarReactNative-SugarReactNativeTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo-SugarKakeiboTests/Pods-SugarKakeibo-SugarKakeiboTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		961527C3DEE3757F382BBC28 /* [CP] Check Pods Manifest.lock */ = {
@@ -314,7 +314,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SugarReactNative-SugarReactNativeTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SugarKakeibo-SugarKakeiboTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -327,15 +327,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		B1B0ACBFE8C8168F9AAFDD44 /* [CP] Check Pods Manifest.lock */ = {
@@ -353,7 +353,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SugarReactNative-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SugarKakeibo-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -366,15 +366,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarReactNative/Pods-SugarReactNative-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SugarKakeibo/Pods-SugarKakeibo-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -403,7 +403,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* SugarReactNativeTests.m in Sources */,
+				00E356F31AD99517003FC87E /* SugarKakeiboTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,7 +421,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* SugarReactNative */;
+			target = 13B07F861A680F5B00A75B9A /* SugarKakeibo */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -429,14 +429,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DC7519ED671489CB62B2B790 /* Pods-SugarReactNative-SugarReactNativeTests.debug.xcconfig */;
+			baseConfigurationReference = DC7519ED671489CB62B2B790 /* Pods-SugarKakeibo-SugarKakeiboTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = SugarReactNativeTests/Info.plist;
+				INFOPLIST_FILE = SugarKakeiboTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,17 +450,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SugarReactNative.app/SugarReactNative";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SugarKakeibo.app/SugarKakeibo";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA70F661053642A4EF488441 /* Pods-SugarReactNative-SugarReactNativeTests.release.xcconfig */;
+			baseConfigurationReference = CA70F661053642A4EF488441 /* Pods-SugarKakeibo-SugarKakeiboTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = SugarReactNativeTests/Info.plist;
+				INFOPLIST_FILE = SugarKakeiboTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -474,19 +474,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SugarReactNative.app/SugarReactNative";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SugarKakeibo.app/SugarKakeibo";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 88F62746608026401030AB43 /* Pods-SugarReactNative.debug.xcconfig */;
+			baseConfigurationReference = 88F62746608026401030AB43 /* Pods-SugarKakeibo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = SugarReactNative/Info.plist;
+				INFOPLIST_FILE = SugarKakeibo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -497,7 +497,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SugarReactNative;
+				PRODUCT_NAME = SugarKakeibo;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -506,12 +506,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3330176916B7D8EB506B4030 /* Pods-SugarReactNative.release.xcconfig */;
+			baseConfigurationReference = 3330176916B7D8EB506B4030 /* Pods-SugarKakeibo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = SugarReactNative/Info.plist;
+				INFOPLIST_FILE = SugarKakeibo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -522,7 +522,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SugarReactNative;
+				PRODUCT_NAME = SugarKakeibo;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -654,7 +654,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SugarReactNativeTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SugarKakeiboTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -663,7 +663,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SugarReactNative" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SugarKakeibo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -672,7 +672,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SugarReactNative" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SugarKakeibo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "SugarReactNative.app"
-               BlueprintName = "SugarReactNative"
-               ReferencedContainer = "container:SugarReactNative.xcodeproj">
+               BuildableName = "SugarKakeibo.app"
+               BlueprintName = "SugarKakeibo"
+               ReferencedContainer = "container:SugarKakeibo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SugarReactNativeTests.xctest"
-               BlueprintName = "SugarReactNativeTests"
-               ReferencedContainer = "container:SugarReactNative.xcodeproj">
+               BuildableName = "SugarKakeiboTests.xctest"
+               BlueprintName = "SugarKakeiboTests"
+               ReferencedContainer = "container:SugarKakeibo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SugarReactNative.app"
-            BlueprintName = "SugarReactNative"
-            ReferencedContainer = "container:SugarReactNative.xcodeproj">
+            BuildableName = "SugarKakeibo.app"
+            BlueprintName = "SugarKakeibo"
+            ReferencedContainer = "container:SugarKakeibo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SugarReactNative.app"
-            BlueprintName = "SugarReactNative"
-            ReferencedContainer = "container:SugarReactNative.xcodeproj">
+            BuildableName = "SugarKakeibo.app"
+            BlueprintName = "SugarKakeibo"
+            ReferencedContainer = "container:SugarKakeibo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
